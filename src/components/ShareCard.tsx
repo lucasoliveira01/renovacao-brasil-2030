@@ -180,7 +180,7 @@ export function ShareCard({ players, generatedAt }: ShareCardProps) {
         }}
       >
         <span style={{ fontSize: 10, color: '#3a6a3e' }}>
-          Copa 2030 · convocacao-brasil-2030.app
+          Renovação Brasil 2030 · renovacao-brasil-2030.vercel.app
         </span>
         <span style={{ fontSize: 10, color: '#3a6a3e' }}>
           ✓ no ciclo &nbsp; ✕ fim de ciclo
