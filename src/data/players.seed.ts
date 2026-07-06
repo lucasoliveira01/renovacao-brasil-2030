@@ -51,7 +51,7 @@ export const players: Player[] = [
   makePlayer('Andrey Santos',   'Andrey Santos',   'Chelsea',          'Meio-campo', '2004-08-05', 'Pre-lista 2026'),
   makePlayer('Bruno Guimarães', 'Bruno Guimarães', 'Newcastle',        'Meio-campo', '1997-11-16', 'Pre-lista 2026'),
   makePlayer('Casemiro',        'Casemiro',        'Manchester United', 'Meio-campo', '1992-02-23', 'Pre-lista 2026'),
-  makePlayer('Danilo',          'Danilo',          'Botafogo',         'Meio-campo', '1996-04-18', 'Pre-lista 2026'),
+  makePlayer('Danilo',          'Danilo',          'Botafogo',         'Meio-campo', '2001-04-29', 'Pre-lista 2026'),
   makePlayer('Éderson',         'Éderson',         'Atalanta',         'Meio-campo', '1999-07-07', 'Pre-lista 2026'),
   makePlayer('Fabinho',         'Fabinho',         'Al-Ittihad',       'Meio-campo', '1993-10-23', 'Pre-lista 2026'),
   makePlayer('Gabriel Sara',    'Gabriel Sara',    'Galatasaray',      'Meio-campo', '1999-06-26', 'Pre-lista 2026'),

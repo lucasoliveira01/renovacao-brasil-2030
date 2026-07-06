@@ -128,7 +128,6 @@
   .age  { font-size: 11px; }
   .tag  { font-size: 11px; }
   .photoButton { width: 65%; }
-  .xOverlay { padding: 6px; }
 }
 
 @media (min-width: 1200px) {
