@@ -77,22 +77,22 @@ export const players: Player[] = [
   makePlayer('Richarlison',       'Richarlison',       'Tottenham',         'Atacante', '1997-05-10', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/378710-1665608231.jpg?lm=1'),
   makePlayer('Samuel Lino',       'Samuel Lino',       'Flamengo',          'Atacante', '1999-12-23', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/694928-1695982815.jpg?lm=1'),
   makePlayer('Vini Jr',           'Vini Jr',           'Real Madrid',       'Atacante', '2000-07-12', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/371998-1761575144.jpg?lm=1'),
-  makePlayer('Estêvão',     'Estêvão',     'Chelsea',     'Atacante',   '2007-03-24', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/1056993-1766148652.jpg?lm=1'),
+  makePlayer('Estêvão',     'Estêvão',     'Chelsea',     'Atacante',   '2007-03-24', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/1056993-1766148652.jpg?lm=1'),
   makePlayer('Rodrygo',     'Rodrygo',     'Real Madrid', 'Atacante',   '2001-01-09', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/412363-1763041611.jpg?lm=1'),
   makePlayer('Éder Militão','Éder Militão','Real Madrid', 'Defensor',   '1998-01-18', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/401530-1719653438.jpg?lm=1'),
 
   // ─── Promessas ──────────────────────────────────────────────────────────────
   // Goleiros
   makePlayer('Mycael',        'Mycael',        'Athletico-PR',       'Goleiro',     '2004-03-12', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/743586-1661710509.jpg?lm=1'),
-  makePlayer('Gabriel Brazão','Gabriel Brazão','Santos',             'Goleiro',     '2000-10-05', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/371247-1780359299.jpg?lm=1'),
+  makePlayer('Gabriel Brazão','Gabriel Brazão','Santos',             'Goleiro',     '2000-10-05', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/371247-1780359299.jpg?lm=1'),
   makePlayer('Robert',        'Robert',        'Atletico-MG',       'Goleiro',     '2005-02-03', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/1124553-1745582504.jpg?lm=1'),
   makePlayer('Felipe Longo',  'Felipe Longo',  'Corinthians',        'Goleiro',     '2005-05-10', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/1005656-1758248276.png?lm=1'),
 
   // Jogadores de linha
   makePlayer('Vitor Roque',   'Vitor Roque',   'Betis',              'Atacante',    '2005-02-28', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/943837-1744743482.jpg?lm=1'),
   makePlayer('Breno Bidon',   'Breno Bidon',   'Chelsea',            'Meio-campo',  '2005-02-20', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/1029227-1725327135.jpg?lm=1'),
-  makePlayer('Savinho',       'Savinho',       'Manchester City',    'Atacante',    '2004-04-10', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/743591-1751367497.jpg?lm=1'),
-  makePlayer('Lucas Beraldo', 'Lucas Beraldo', 'PSG',                'Defensor',    '2003-11-24', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/872171-1715107660.jpg?lm=1'),
-  makePlayer('Murillo',       'Murillo',       'Nottingham Forest',  'Defensor',    '2002-07-04', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/1005649-1709159139.jpg?lm=1'),
+  makePlayer('Savinho',       'Savinho',       'Manchester City',    'Atacante',    '2004-04-10', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/743591-1751367497.jpg?lm=1'),
+  makePlayer('Lucas Beraldo', 'Lucas Beraldo', 'PSG',                'Defensor',    '2003-11-24', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/872171-1715107660.jpg?lm=1'),
+  makePlayer('Murillo',       'Murillo',       'Nottingham Forest',  'Defensor',    '2002-07-04', 'Pre-lista 2026', 'https://img.a.transfermarkt.technology/portrait/big/1005649-1709159139.jpg?lm=1'),
   makePlayer('Gabriel Mec',   'Gabriel Mec',   'Grêmio',             'Atacante',    '2008-04-11', 'Promessa', 'https://img.a.transfermarkt.technology/portrait/big/1228661-1757072570.png?lm=1'),
 ];
